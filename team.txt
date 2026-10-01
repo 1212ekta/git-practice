@@ -1,4 +1,4 @@
-Team: ByteBuilders
+Team Name: ByteBuilders
 
 Team Members
-Ekta
+Ekta 
